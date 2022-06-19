@@ -10,7 +10,7 @@
 * **:necktie: Predict attrition of your valuable employees:** https://bit.ly/3BlMOMC
 * **:bar_chart: Customer Segmentation for Marketing Strategy:** https://bit.ly/2URwX7Y
 * **:ship: Titanic: Machine Learning from disaster:** https://bit.ly/2QFW37U
-* **:movie_camera: NLP sentiment analisys of films:** https://bit.ly/3OtBunp
+* **:movie_camera: NLP sentiment analysis of films:** https://bit.ly/3OtBunp
 * **:syringe: Covid data analysis:** https://bit.ly/39EQTCO
 * **:hospital: Covid cases prediction - ARIMA and SARIMAX:** https://bit.ly/3y45ocD
 * **:skull: Covid death prediction - ARIMA and SARIMAX:** https://bit.ly/3xYsEI3
